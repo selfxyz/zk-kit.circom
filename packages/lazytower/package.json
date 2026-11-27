@@ -26,16 +26,17 @@
     "publishConfig": {
         "access": "public"
     },
-    "dependencies": {
-        "circomlib": "^2.0.5"
-    },
     "devDependencies": {
         "@types/chai": "^4.3.16",
         "@zk-kit/lazytower": "^0.0.1",
         "chai": "^5.1.0",
         "circom_tester": "^0.0.19",
+        "circomlib": "^2.0.5",
         "mocha": "^10.2.0",
         "poseidon-lite": "^0.2.0",
         "tmp-promise": "^3.0.3"
+    },
+    "peerDependencies": {
+        "circomlib": "^2.0.5"
     }
 }
