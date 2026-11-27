@@ -421,6 +421,8 @@ __metadata:
     circomlib: "npm:^2.0.5"
     mocha: "npm:^10.2.0"
     poseidon-lite: "npm:^0.2.0"
+  peerDependencies:
+    circomlib: ^2.0.5
   languageName: unknown
   linkType: soft
 
@@ -434,6 +436,8 @@ __metadata:
     circomkit: "npm:^0.1.0"
     circomlib: "npm:^2.0.5"
     mocha: "npm:^10.2.0"
+  peerDependencies:
+    circomlib: ^2.0.5
   languageName: unknown
   linkType: soft
 
@@ -460,6 +464,8 @@ __metadata:
     mocha: "npm:^10.2.0"
     poseidon-lite: "npm:^0.2.0"
     tmp-promise: "npm:^3.0.3"
+  peerDependencies:
+    circomlib: ^2.0.5
   languageName: unknown
   linkType: soft
 
@@ -492,6 +498,8 @@ __metadata:
     circomkit: "npm:^0.1.0"
     circomlib: "npm:^2.0.5"
     mocha: "npm:^10.2.0"
+  peerDependencies:
+    circomlib: ^2.0.5
   languageName: unknown
   linkType: soft
 
@@ -513,6 +521,8 @@ __metadata:
     circomlib: "npm:^2.0.5"
     mocha: "npm:^10.2.0"
     poseidon-lite: "npm:^0.2.0"
+  peerDependencies:
+    circomlib: ^2.0.5
   languageName: unknown
   linkType: soft
 
@@ -524,6 +534,8 @@ __metadata:
     circomlib: "npm:^2.0.5"
     mocha: "npm:^10.2.0"
     npm-run-all: "npm:^4.1.5"
+  peerDependencies:
+    circomlib: ^2.0.5
   languageName: unknown
   linkType: soft
 

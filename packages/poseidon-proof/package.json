@@ -17,13 +17,14 @@
         "setup": "circomkit setup poseidon-proof",
         "test": "mocha"
     },
-    "dependencies": {
-        "circomlib": "^2.0.5"
-    },
     "devDependencies": {
         "circomkit": "^0.1.0",
+        "circomlib": "^2.0.5",
         "mocha": "^10.2.0",
         "poseidon-lite": "^0.2.0"
+    },
+    "peerDependencies": {
+        "circomlib": "^2.0.5"
     },
     "publishConfig": {
         "access": "public"
